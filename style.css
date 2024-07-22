@@ -1,0 +1,28 @@
+#countLabel{
+  display:block;
+  text-align: center;
+  font-size: 10em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#btn-container{
+    text-align: center;
+
+}
+.btnClass{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color:rgb(1, 1, 1);
+    background-color:aquamarine;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.btnClass:hover{
+    background-color: rgb(108, 108, 180);
+}
